@@ -5,6 +5,6 @@ package Gcms_Joao;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return false;
     }
 }
